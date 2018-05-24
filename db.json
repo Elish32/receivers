@@ -1,5 +1,14 @@
-[{ name: 'Jason Oner', cardnumber: 'Card ****1563', url: 'https://randomuser.me/api/portraits/men/40.jpg' },
-{ name: 'Ranee Carlson', cardnumber: 'Card ****1563', url: 'https://randomuser.me/api/portraits/men/36.jpg', },
-{ name: 'Cindy Baker', cardnumber: 'Card ****1563', url: 'https://randomuser.me/api/portraits/men/38.jpg', },
-{ name: 'Ali Connors', cardnumber: 'Card ****1563', url: 'https://randomuser.me/api/portraits/men/39.jpg', } 
+[
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
 ]
